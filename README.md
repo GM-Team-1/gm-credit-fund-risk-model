@@ -8,5 +8,5 @@ The G&M Credit Fund Risk Model (CFRM) is a machine learning project designed to 
 
 ## Usage
 
-## Contributers
+## Contributors
 Aanya Bhandari, Emily Jiang, Sidra Dakhel, Fikreab Mezgebu, Brook Shibabaw, Isra Mohamed, Casey Chin
