@@ -8,7 +8,9 @@ The G&M Credit Fund Risk Model (CFRM) is a machine learning project designed to 
 pip install -r requirements.txt
 
 ## Usage
-CFRM.ipynb
+Run in this order:
+
+CFRM.ipynb *( I have the companies.csv stored in a )
 data_cleaning.ipynb -> companies_optimized_targets.csv
 feature_engineering.ipynb -> companies_featured_targets.csv
 eda.ipynb

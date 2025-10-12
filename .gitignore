@@ -175,7 +175,6 @@ pyrightconfig.json
 
 .DS_STORE
 
-# CSV files
 *.csv
 
 # End of https://www.toptal.com/developers/gitignore/api/python
