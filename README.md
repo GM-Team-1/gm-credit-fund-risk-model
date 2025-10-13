@@ -26,6 +26,7 @@ All notebooks are set to save and retrive any processed data from this directory
     > File Input: companies_cleaned_data.csv
     > File Output: companies_feature_engineering.csv
 4. eda.ipynb - Analyzes and explores new features
+    > File Input: companies_feature_engineering.csv
 
 
 ## Contributors
