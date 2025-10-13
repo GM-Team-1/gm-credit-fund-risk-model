@@ -18,9 +18,12 @@ All notebooks are set to save and retrive any processed data from this directory
 
 ## Pipeline
 1. CFRM.ipynb - Initial exploration of the data
+    > File Inputs: companies.csv
 2. data_cleaning.ipynb - Target variables and data cleaning
+    > File Inputs: companies.csv
     > File Outputs: companies_optimized_targets.csv, companies_cleaned_data.csv
 3. feature_engineering.ipynb - Creates and alters features
+    > File Input: companies_cleaned_data.csv
     > File Output: companies_feature_engineering.csv
 4. eda.ipynb - Analyzes and explores new features
 
