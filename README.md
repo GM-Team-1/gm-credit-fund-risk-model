@@ -27,4 +27,4 @@ All notebooks are set to save and retrive any processed data from this directory
 
 
 ## Contributors
-Aanya Bhandari, Emily Jiang, Sidra Dakhel, Fikreab Mezgebu, Brook Shibabaw, Isra Mohamed, Casey Chin
+Aanya Bhandari, Emily Jiang, Fikreab Mezgebu, Brook Shibabaw, Casey Chin
