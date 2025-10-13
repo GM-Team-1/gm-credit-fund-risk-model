@@ -28,6 +28,5 @@ All notebooks are set to save and retrive any processed data from this directory
 4. eda.ipynb - Analyzes and explores new features
     > File Input: companies_feature_engineering.csv
 
-
 ## Contributors
 Aanya Bhandari, Emily Jiang, Sidra Dakhel, Fikreab Mezgebu, Brook Shibabaw, Isra Mohamed, Casey Chin
