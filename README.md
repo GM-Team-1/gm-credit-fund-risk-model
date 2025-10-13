@@ -7,13 +7,24 @@ The G&M Credit Fund Risk Model (CFRM) is a machine learning project designed to 
 ## Dependencies
 pip install -r requirements.txt
 
-## Usage
-Run in this order:
+## Data Handling/Storage
+### data
+The raw data should be kept in the data folder underneath the name 'companies.csv'
 
-CFRM.ipynb *( I have the companies.csv stored in a )
-data_cleaning.ipynb -> companies_optimized_targets.csv
-feature_engineering.ipynb -> companies_featured_targets.csv
-eda.ipynb
+Download [https://www.kaggle.com/datasets/amirataha/startups]
+
+### processed_data
+All notebooks are set to save and retrive any processed data from this directory.
+
+## Pipeline
+1. CFRM.ipynb - Initial exploration of the data
+2. data_cleaning.ipynb - Target variables and data cleaning
+    -> companies_optimized_targets.csv
+    -> companies_cleaned_data.csv
+3. feature_engineering.ipynb - Creates and alters features
+    -> companies_feature_engineering.csv
+4. eda.ipynb - Analyzes and explores new features
+
 
 ## Contributors
 Aanya Bhandari, Emily Jiang, Sidra Dakhel, Fikreab Mezgebu, Brook Shibabaw, Isra Mohamed, Casey Chin
