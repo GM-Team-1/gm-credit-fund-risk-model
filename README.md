@@ -27,8 +27,8 @@ All notebooks are set to save and retrive any processed data from this directory
     > File Output: companies_feature_engineering.csv
 4. eda.ipynb - Analyzes and explores new features
     > File Input: companies_feature_engineering.csv
-4. eda_visualizations.ipynb - Creates visualizations and reports
-    > File Input: companies_optimized_targets.csv
+4. EDA_visualizations.ipynb - Creates visualizations and reports
+    > File Input: companies_feature_engineering.csv
 
 ## Contributors
 Aanya Bhandari, Emily Jiang, Fikreab Mezgebu, Brook Shibabaw, Casey Chin
