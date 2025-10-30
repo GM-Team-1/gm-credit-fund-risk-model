@@ -1,0 +1,28 @@
+
+GEOGRAPHIC HEATMAP LIMITATIONS REPORT
+====================================
+
+COVERAGE GAPS:
+- Missing 0 US states: []
+- 0 states with <10 companies: []
+- 6 states with <50 companies (less reliable): ['ak', 'ms', 'nd', 'sd', 'wv', 'wy']
+
+DATA QUALITY ISSUES:
+- State coverage: 100.0% of US companies
+- City data incomplete: 97.2% have coordinates
+- Success rate threshold: funding_total_usd < $1M = under-capitalized
+- Bias toward tech hubs: CA, NY, TX represent 0.5% of data
+
+METHODOLOGICAL NOTES:
+- Under-capitalization definition: Total funding < $1,000,000
+- Success rate calculation: 1 - under_capitalization_rate  
+- Age calculation: 2025 - founded_year
+- Risk categories: Low(<30%), Medium(30-50%), High(50-70%), Very High(>70%)
+- Size categories: Small(<50), Medium(50-200), Large(200-1000), Very Large(>1000)
+
+DASHBOARD READINESS:
+- State-level startup counts: 52 states
+- State-level success rates: Range (np.float64(0.19), np.float64(0.52))
+- State-level under-cap concentrations: Range (np.float64(0.48), np.float64(0.81))
+- Visualization categories: Risk & Size tiers created
+- Geographic coverage validation: 100.0% reliable
