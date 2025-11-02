@@ -1,0 +1,125 @@
+{
+  "industry": {
+    "options": [
+      "Software",
+      "Healthcare",
+      "Fintech",
+      "E-commerce",
+      "AI/ML",
+      "Biotech",
+      "Clean Tech"
+    ],
+    "counts": [
+      713,
+      1807,
+      701,
+      142,
+      595,
+      1024,
+      1971
+    ],
+    "total_industries": 7
+  },
+  "stage": {
+    "options": [
+      "Idea",
+      "MVP",
+      "Growth",
+      "Scale",
+      "Mature"
+    ],
+    "counts": [
+      3907,
+      7756,
+      15587,
+      7767,
+      3803
+    ],
+    "descriptions": [
+      "Early concept phase",
+      "Minimum viable product",
+      "Revenue growth phase",
+      "Scaling operations",
+      "Established company"
+    ]
+  },
+  "success_status": {
+    "options": [
+      "Bootstrap Success",
+      "Traditional Success",
+      "Early Stage",
+      "All Companies"
+    ],
+    "counts": [
+      29243,
+      24690,
+      0,
+      38820
+    ],
+    "descriptions": [
+      "Low funding, high success",
+      "High funding, traditional path",
+      "Developing companies",
+      "All companies in dataset"
+    ]
+  },
+  "funding_level": {
+    "options": [
+      "Pre-Seed (< $100K)",
+      "Seed ($100K - $1M)",
+      "Series A ($1M - $10M)",
+      "Series B+ ($10M+)",
+      "Well-Funded ($50M+)"
+    ],
+    "counts": [
+      "963",
+      "3229",
+      "5703",
+      "3320",
+      "1066"
+    ],
+    "thresholds": [
+      100000,
+      1000000,
+      10000000,
+      50000000
+    ]
+  },
+  "geographic_region": {
+    "options": [
+      "ca",
+      "ny",
+      "tx",
+      "ma",
+      "fl",
+      "wa",
+      "il",
+      "pa",
+      "nj",
+      "co",
+      "va",
+      "ga",
+      "unknown",
+      "nc",
+      "oh"
+    ],
+    "counts": [
+      12267,
+      4234,
+      2137,
+      2109,
+      1660,
+      1476,
+      1294,
+      1032,
+      913,
+      890,
+      863,
+      833,
+      748,
+      669,
+      589
+    ],
+    "total_regions": 52
+  }
+}

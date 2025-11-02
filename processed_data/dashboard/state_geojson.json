@@ -1,0 +1,1266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 0,
+        "name": 0,
+        "total_companies": 9,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 55.6,
+        "traditional_success_rate": 44.4,
+        "bootstrap_index": 0.738,
+        "under_cap_percentage": 44.4,
+        "avg_funding": 1275552.25,
+        "median_funding": 805327.5,
+        "population_millions": 0.09,
+        "data_quality": "low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.0406,
+          58.9903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 1,
+        "name": 1,
+        "total_companies": 128,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 65.6,
+        "traditional_success_rate": 51.6,
+        "bootstrap_index": 0.871,
+        "under_cap_percentage": 35.9,
+        "avg_funding": 7525106.7609,
+        "median_funding": 1715015.0,
+        "population_millions": 1.28,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1659,
+          42.1103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 2,
+        "name": 2,
+        "total_companies": 72,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 68.1,
+        "traditional_success_rate": 61.1,
+        "bootstrap_index": 0.904,
+        "under_cap_percentage": 29.2,
+        "avg_funding": 5775542.5714,
+        "median_funding": 1500000.0,
+        "population_millions": 0.72,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8772,
+          36.3261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 3,
+        "name": 3,
+        "total_companies": 556,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 70.3,
+        "traditional_success_rate": 59.7,
+        "bootstrap_index": 0.933,
+        "under_cap_percentage": 25.4,
+        "avg_funding": 11496133.2867,
+        "median_funding": 1794008.0,
+        "population_millions": 5.56,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0646,
+          33.3853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 4,
+        "name": 4,
+        "total_companies": 12267,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 78.5,
+        "traditional_success_rate": 68.8,
+        "bootstrap_index": 1.042,
+        "under_cap_percentage": 39.8,
+        "avg_funding": 20830598.8882,
+        "median_funding": 5138986.0,
+        "population_millions": 122.67,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5108,
+          36.2589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 5,
+        "name": 5,
+        "total_companies": 890,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 74.2,
+        "traditional_success_rate": 63.9,
+        "bootstrap_index": 0.985,
+        "under_cap_percentage": 40.4,
+        "avg_funding": 12241665.1479,
+        "median_funding": 2850000.0,
+        "population_millions": 8.9,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4312,
+          39.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 6,
+        "name": 6,
+        "total_companies": 395,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 66.3,
+        "traditional_success_rate": 54.9,
+        "bootstrap_index": 0.88,
+        "under_cap_percentage": 41.8,
+        "avg_funding": 11458115.8155,
+        "median_funding": 2000000.0,
+        "population_millions": 3.95,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9007,
+          41.3813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 7,
+        "name": 7,
+        "total_companies": 270,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 78.1,
+        "traditional_success_rate": 55.9,
+        "bootstrap_index": 1.037,
+        "under_cap_percentage": 25.6,
+        "avg_funding": 5297649.2319,
+        "median_funding": 1000000.0,
+        "population_millions": 2.7,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3845,
+          46.9902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 8,
+        "name": 8,
+        "total_companies": 145,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 77.2,
+        "traditional_success_rate": 58.6,
+        "bootstrap_index": 1.025,
+        "under_cap_percentage": 17.9,
+        "avg_funding": 11074413.9259,
+        "median_funding": 1000000.0,
+        "population_millions": 1.45,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1129,
+          36.2477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 9,
+        "name": 9,
+        "total_companies": 1660,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 74.0,
+        "traditional_success_rate": 61.1,
+        "bootstrap_index": 0.982,
+        "under_cap_percentage": 23.4,
+        "avg_funding": 9894157.7671,
+        "median_funding": 1350000.0,
+        "population_millions": 16.6,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7822,
+          28.0425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 10,
+        "name": 10,
+        "total_companies": 833,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 73.6,
+        "traditional_success_rate": 60.9,
+        "bootstrap_index": 0.977,
+        "under_cap_percentage": 30.0,
+        "avg_funding": 12483930.6969,
+        "median_funding": 3075000.0,
+        "population_millions": 8.33,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8505,
+          34.5213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 11,
+        "name": 11,
+        "total_companies": 66,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 72.7,
+        "traditional_success_rate": 56.1,
+        "bootstrap_index": 0.965,
+        "under_cap_percentage": 43.9,
+        "avg_funding": 5001732.4828,
+        "median_funding": 1025000.0,
+        "population_millions": 0.66,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.4952,
+          21.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 12,
+        "name": 12,
+        "total_companies": 91,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 63.7,
+        "traditional_success_rate": 53.8,
+        "bootstrap_index": 0.846,
+        "under_cap_percentage": 31.9,
+        "avg_funding": 9740118.3793,
+        "median_funding": 1000000.0,
+        "population_millions": 0.91,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8923,
+          40.5147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 13,
+        "name": 13,
+        "total_companies": 72,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 63.9,
+        "traditional_success_rate": 47.2,
+        "bootstrap_index": 0.848,
+        "under_cap_percentage": 37.5,
+        "avg_funding": 5645184.1852,
+        "median_funding": 1100016.0,
+        "population_millions": 0.72,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0447,
+          43.1292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 14,
+        "name": 14,
+        "total_companies": 1294,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 77.8,
+        "traditional_success_rate": 63.9,
+        "bootstrap_index": 1.033,
+        "under_cap_percentage": 25.0,
+        "avg_funding": 17294213.5015,
+        "median_funding": 1930000.0,
+        "population_millions": 12.94,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2575,
+          41.6644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 15,
+        "name": 15,
+        "total_companies": 256,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 74.6,
+        "traditional_success_rate": 55.1,
+        "bootstrap_index": 0.99,
+        "under_cap_percentage": 35.2,
+        "avg_funding": 13369705.5591,
+        "median_funding": 1300000.0,
+        "population_millions": 2.56,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5545,
+          39.7516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 16,
+        "name": 16,
+        "total_companies": 123,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 69.9,
+        "traditional_success_rate": 62.6,
+        "bootstrap_index": 0.928,
+        "under_cap_percentage": 34.1,
+        "avg_funding": 5319495.7619,
+        "median_funding": 2498593.5,
+        "population_millions": 1.23,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8426,
+          38.7824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 17,
+        "name": 17,
+        "total_companies": 168,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 68.5,
+        "traditional_success_rate": 50.6,
+        "bootstrap_index": 0.909,
+        "under_cap_percentage": 33.9,
+        "avg_funding": 3838493.9649,
+        "median_funding": 1052713.0,
+        "population_millions": 1.68,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0365,
+          38.4883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 18,
+        "name": 18,
+        "total_companies": 102,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 66.7,
+        "traditional_success_rate": 57.8,
+        "bootstrap_index": 0.885,
+        "under_cap_percentage": 30.4,
+        "avg_funding": 1891157.8065,
+        "median_funding": 800000.0,
+        "population_millions": 1.02,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2719,
+          31.0196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 19,
+        "name": 19,
+        "total_companies": 2109,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 76.2,
+        "traditional_success_rate": 68.7,
+        "bootstrap_index": 1.012,
+        "under_cap_percentage": 49.7,
+        "avg_funding": 21340932.914,
+        "median_funding": 7500000.0,
+        "population_millions": 21.09,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.3528,
+          43.603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 20,
+        "name": 20,
+        "total_companies": 589,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 73.5,
+        "traditional_success_rate": 58.7,
+        "bootstrap_index": 0.976,
+        "under_cap_percentage": 43.0,
+        "avg_funding": 17649460.0538,
+        "median_funding": 2502500.0,
+        "population_millions": 5.89,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5449,
+          39.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 21,
+        "name": 21,
+        "total_companies": 77,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 68.8,
+        "traditional_success_rate": 64.9,
+        "bootstrap_index": 0.913,
+        "under_cap_percentage": 55.8,
+        "avg_funding": 9954153.6977,
+        "median_funding": 2600000.0,
+        "population_millions": 0.77,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2055,
+          43.9969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 22,
+        "name": 22,
+        "total_companies": 483,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 70.0,
+        "traditional_success_rate": 54.5,
+        "bootstrap_index": 0.929,
+        "under_cap_percentage": 30.0,
+        "avg_funding": 6361997.9379,
+        "median_funding": 1210000.0,
+        "population_millions": 4.83,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5095,
+          41.9877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 23,
+        "name": 23,
+        "total_companies": 508,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 72.2,
+        "traditional_success_rate": 56.9,
+        "bootstrap_index": 0.958,
+        "under_cap_percentage": 37.0,
+        "avg_funding": 8514975.3968,
+        "median_funding": 2000000.0,
+        "population_millions": 5.08,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2882,
+          44.3159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 24,
+        "name": 24,
+        "total_companies": 301,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 72.4,
+        "traditional_success_rate": 60.1,
+        "bootstrap_index": 0.961,
+        "under_cap_percentage": 31.2,
+        "avg_funding": 10295105.5895,
+        "median_funding": 1000000.0,
+        "population_millions": 3.01,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8113,
+          38.886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 25,
+        "name": 25,
+        "total_companies": 37,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 59.5,
+        "traditional_success_rate": 54.1,
+        "bootstrap_index": 0.79,
+        "under_cap_percentage": 32.4,
+        "avg_funding": 12791666.6667,
+        "median_funding": 800000.0,
+        "population_millions": 0.37,
+        "data_quality": "low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6925,
+          33.8994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 26,
+        "name": 26,
+        "total_companies": 54,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 59.3,
+        "traditional_success_rate": 51.9,
+        "bootstrap_index": 0.787,
+        "under_cap_percentage": 48.1,
+        "avg_funding": 4929617.8462,
+        "median_funding": 1529512.5,
+        "population_millions": 0.54,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5425,
+          43.7629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 27,
+        "name": 27,
+        "total_companies": 669,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 73.8,
+        "traditional_success_rate": 60.5,
+        "bootstrap_index": 0.98,
+        "under_cap_percentage": 34.5,
+        "avg_funding": 14828545.9407,
+        "median_funding": 2000000.0,
+        "population_millions": 6.69,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4775,
+          36.2317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 28,
+        "name": 28,
+        "total_companies": 20,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 70.0,
+        "traditional_success_rate": 60.0,
+        "bootstrap_index": 0.929,
+        "under_cap_percentage": 30.0,
+        "avg_funding": 10010054.0,
+        "median_funding": 1570400.0,
+        "population_millions": 0.2,
+        "data_quality": "low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3823,
+          45.9474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 29,
+        "name": 29,
+        "total_companies": 102,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 69.6,
+        "traditional_success_rate": 56.9,
+        "bootstrap_index": 0.924,
+        "under_cap_percentage": 34.3,
+        "avg_funding": 8938374.5833,
+        "median_funding": 825000.0,
+        "population_millions": 1.02,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8215,
+          41.2225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 30,
+        "name": 30,
+        "total_companies": 154,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 76.0,
+        "traditional_success_rate": 63.0,
+        "bootstrap_index": 1.009,
+        "under_cap_percentage": 37.7,
+        "avg_funding": 11186104.7759,
+        "median_funding": 4476981.0,
+        "population_millions": 1.54,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.4559,
+          44.0462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 31,
+        "name": 31,
+        "total_companies": 913,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 74.2,
+        "traditional_success_rate": 63.4,
+        "bootstrap_index": 0.985,
+        "under_cap_percentage": 29.1,
+        "avg_funding": 14731049.4797,
+        "median_funding": 4000000.0,
+        "population_millions": 9.13,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9263,
+          40.4377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 32,
+        "name": 32,
+        "total_companies": 64,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 76.6,
+        "traditional_success_rate": 56.2,
+        "bootstrap_index": 1.017,
+        "under_cap_percentage": 45.3,
+        "avg_funding": 5526768.6897,
+        "median_funding": 1671125.0,
+        "population_millions": 0.64,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.826,
+          35.2632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 33,
+        "name": 33,
+        "total_companies": 306,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 69.0,
+        "traditional_success_rate": 56.9,
+        "bootstrap_index": 0.916,
+        "under_cap_percentage": 26.5,
+        "avg_funding": 4841336.9268,
+        "median_funding": 857568.5,
+        "population_millions": 3.06,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6264,
+          36.783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 34,
+        "name": 34,
+        "total_companies": 4234,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 80.2,
+        "traditional_success_rate": 65.1,
+        "bootstrap_index": 1.065,
+        "under_cap_percentage": 33.0,
+        "avg_funding": 17238082.1797,
+        "median_funding": 2000000.0,
+        "population_millions": 42.34,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7007,
+          40.7313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 35,
+        "name": 35,
+        "total_companies": 589,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 71.6,
+        "traditional_success_rate": 54.3,
+        "bootstrap_index": 0.95,
+        "under_cap_percentage": 33.6,
+        "avg_funding": 5215032.78,
+        "median_funding": 522500.0,
+        "population_millions": 5.89,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0077,
+          40.5221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 36,
+        "name": 36,
+        "total_companies": 109,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 63.3,
+        "traditional_success_rate": 58.7,
+        "bootstrap_index": 0.84,
+        "under_cap_percentage": 35.8,
+        "avg_funding": 9566024.425,
+        "median_funding": 1000000.0,
+        "population_millions": 1.09,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4421,
+          35.9111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 37,
+        "name": 37,
+        "total_companies": 443,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 76.5,
+        "traditional_success_rate": 63.7,
+        "bootstrap_index": 1.016,
+        "under_cap_percentage": 39.3,
+        "avg_funding": 9313849.608,
+        "median_funding": 1555500.0,
+        "population_millions": 4.43,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6671,
+          45.0836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 38,
+        "name": 38,
+        "total_companies": 1032,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 71.1,
+        "traditional_success_rate": 58.9,
+        "bootstrap_index": 0.944,
+        "under_cap_percentage": 37.1,
+        "avg_funding": 12985248.8974,
+        "median_funding": 2000000.0,
+        "population_millions": 10.32,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4185,
+          40.2181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 39,
+        "name": 39,
+        "total_companies": 122,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 68.9,
+        "traditional_success_rate": 48.4,
+        "bootstrap_index": 0.915,
+        "under_cap_percentage": 56.6,
+        "avg_funding": 7927433.2464,
+        "median_funding": 525000.0,
+        "population_millions": 1.22,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8132,
+          41.8225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 40,
+        "name": 40,
+        "total_companies": 154,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 72.7,
+        "traditional_success_rate": 56.5,
+        "bootstrap_index": 0.965,
+        "under_cap_percentage": 28.6,
+        "avg_funding": 6958750.1364,
+        "median_funding": 1506507.0,
+        "population_millions": 1.54,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.049,
+          35.0036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 41,
+        "name": 41,
+        "total_companies": 18,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 66.7,
+        "traditional_success_rate": 50.0,
+        "bootstrap_index": 0.885,
+        "under_cap_percentage": 38.9,
+        "avg_funding": 5905434.0,
+        "median_funding": 2250000.0,
+        "population_millions": 0.18,
+        "data_quality": "low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1959,
+          45.7505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 42,
+        "name": 42,
+        "total_companies": 313,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 72.2,
+        "traditional_success_rate": 56.9,
+        "bootstrap_index": 0.958,
+        "under_cap_percentage": 43.5,
+        "avg_funding": 5764925.8088,
+        "median_funding": 1500000.0,
+        "population_millions": 3.13,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4161,
+          35.9954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 43,
+        "name": 43,
+        "total_companies": 2137,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 72.6,
+        "traditional_success_rate": 62.8,
+        "bootstrap_index": 0.964,
+        "under_cap_percentage": 32.4,
+        "avg_funding": 16928551.8272,
+        "median_funding": 4000000.0,
+        "population_millions": 21.37,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4825,
+          31.345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 44,
+        "name": 44,
+        "total_companies": 748,
+        "startup_density": 149.6,
+        "bootstrap_success_rate": 66.4,
+        "traditional_success_rate": 52.5,
+        "bootstrap_index": 0.881,
+        "under_cap_percentage": 24.6,
+        "avg_funding": 10389285.6952,
+        "median_funding": 2200000.0,
+        "population_millions": 5.0,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0067,
+          37.6331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 45,
+        "name": 45,
+        "total_companies": 426,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 73.5,
+        "traditional_success_rate": 61.0,
+        "bootstrap_index": 0.976,
+        "under_cap_percentage": 39.0,
+        "avg_funding": 13905134.869,
+        "median_funding": 2081970.0,
+        "population_millions": 4.26,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1409,
+          40.4043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 46,
+        "name": 46,
+        "total_companies": 863,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 67.2,
+        "traditional_success_rate": 57.2,
+        "bootstrap_index": 0.892,
+        "under_cap_percentage": 34.6,
+        "avg_funding": 13882316.2171,
+        "median_funding": 2936094.5,
+        "population_millions": 8.63,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0889,
+          38.4087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 47,
+        "name": 47,
+        "total_companies": 70,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 65.7,
+        "traditional_success_rate": 44.3,
+        "bootstrap_index": 0.872,
+        "under_cap_percentage": 24.3,
+        "avg_funding": 8379227.5294,
+        "median_funding": 1250000.0,
+        "population_millions": 0.7,
+        "data_quality": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6326,
+          41.6759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 48,
+        "name": 48,
+        "total_companies": 1476,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 74.0,
+        "traditional_success_rate": 62.3,
+        "bootstrap_index": 0.982,
+        "under_cap_percentage": 37.6,
+        "avg_funding": 23305798.1776,
+        "median_funding": 3200000.0,
+        "population_millions": 14.76,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5495,
+          47.061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 49,
+        "name": 49,
+        "total_companies": 267,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 65.9,
+        "traditional_success_rate": 55.4,
+        "bootstrap_index": 0.875,
+        "under_cap_percentage": 37.1,
+        "avg_funding": 5381758.66,
+        "median_funding": 1405007.5,
+        "population_millions": 2.67,
+        "data_quality": "high"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.406,
+          43.0948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 50,
+        "name": 50,
+        "total_companies": 18,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 66.7,
+        "traditional_success_rate": 44.4,
+        "bootstrap_index": 0.885,
+        "under_cap_percentage": 33.3,
+        "avg_funding": 3823312.3333,
+        "median_funding": 914311.5,
+        "population_millions": 0.18,
+        "data_quality": "low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.849,
+          38.791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geographic_unit": 51,
+        "name": 51,
+        "total_companies": 18,
+        "startup_density": 100.0,
+        "bootstrap_success_rate": 55.6,
+        "traditional_success_rate": 50.0,
+        "bootstrap_index": 0.738,
+        "under_cap_percentage": 33.3,
+        "avg_funding": 2059638.3333,
+        "median_funding": 347733.0,
+        "population_millions": 0.18,
+        "data_quality": "low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7572,
+          39.1134
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "data_source": "GM Credit Fund Risk Model",
+    "geographic_unit": "state_code",
+    "total_features": 52,
+    "metrics_included": [
+      "startup_density",
+      "bootstrap_success_rate",
+      "total_companies",
+      "avg_funding",
+      "under_cap_percentage",
+      "bootstrap_index"
+    ]
+  }
+}
