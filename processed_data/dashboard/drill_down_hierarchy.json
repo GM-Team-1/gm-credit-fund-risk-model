@@ -2,7 +2,7 @@
   "national": {
     "total_companies": 38820,
     "total_funding": 238840914329.0,
-    "avg_funding": 16724383.049436314,
+    "avg_funding": 6152522.265043792,
     "success_rate": 65.5,
     "top_states": {
       "ca": 12267,
@@ -16,7 +16,7 @@
     "ak": {
       "total_companies": 9,
       "total_funding": 5102209.0,
-      "avg_funding": 1275552.25,
+      "avg_funding": 566912.1111111111,
       "coordinates": [
         58.99028743333333,
         -142.04060564444444
@@ -31,7 +31,7 @@
     "al": {
       "total_companies": 128,
       "total_funding": 346154911.0,
-      "avg_funding": 7525106.760869565,
+      "avg_funding": 2704335.2421875,
       "coordinates": [
         42.11029321507936,
         -53.16593386031745
@@ -46,7 +46,7 @@
     "ar": {
       "total_companies": 72,
       "total_funding": 121286394.0,
-      "avg_funding": 5775542.571428572,
+      "avg_funding": 1684533.25,
       "coordinates": [
         36.326063108571425,
         -92.87720086142858
@@ -61,7 +61,7 @@
     "az": {
       "total_companies": 556,
       "total_funding": 1643947060.0,
-      "avg_funding": 11496133.286713287,
+      "avg_funding": 2956739.3165467624,
       "coordinates": [
         33.385298019125685,
         -111.0645882723133
@@ -76,7 +76,7 @@
     "ca": {
       "total_companies": 12267,
       "total_funding": 104923726600.0,
-      "avg_funding": 20830598.88822712,
+      "avg_funding": 8553332.240971712,
       "coordinates": [
         36.25889369170751,
         -118.51079809813045
@@ -91,7 +91,7 @@
     "co": {
       "total_companies": 890,
       "total_funding": 4468207779.0,
-      "avg_funding": 12241665.147945205,
+      "avg_funding": 5020458.178651686,
       "coordinates": [
         39.35995405244041,
         -102.43119164687856
@@ -106,7 +106,7 @@
     "ct": {
       "total_companies": 395,
       "total_funding": 1924963457.0,
-      "avg_funding": 11458115.81547619,
+      "avg_funding": 4873325.207594937,
       "coordinates": [
         41.38126882564103,
         -74.90069315128206
@@ -121,7 +121,7 @@
     "dc": {
       "total_companies": 270,
       "total_funding": 365537797.0,
-      "avg_funding": 5297649.231884058,
+      "avg_funding": 1353843.6925925927,
       "coordinates": [
         46.99021359169959,
         -116.3844558221344
@@ -136,7 +136,7 @@
     "de": {
       "total_companies": 145,
       "total_funding": 299009176.0,
-      "avg_funding": 11074413.925925925,
+      "avg_funding": 2062132.248275862,
       "coordinates": [
         36.247681457894736,
         -77.1128533300752
@@ -151,7 +151,7 @@
     "fl": {
       "total_companies": 1660,
       "total_funding": 3908192318.0,
-      "avg_funding": 9894157.767088607,
+      "avg_funding": 2354332.721686747,
       "coordinates": [
         28.042485062476892,
         -74.78218989303758
@@ -166,7 +166,7 @@
     "ga": {
       "total_companies": 833,
       "total_funding": 3170918397.0,
-      "avg_funding": 12483930.696850393,
+      "avg_funding": 3806624.726290516,
       "coordinates": [
         34.521274358787885,
         -83.85050655163637
@@ -181,7 +181,7 @@
     "hi": {
       "total_companies": 66,
       "total_funding": 145050242.0,
-      "avg_funding": 5001732.482758621,
+      "avg_funding": 2197730.9393939395,
       "coordinates": [
         21.11999057846154,
         -157.4952156
@@ -196,7 +196,7 @@
     "ia": {
       "total_companies": 91,
       "total_funding": 282463433.0,
-      "avg_funding": 9740118.379310345,
+      "avg_funding": 3103993.769230769,
       "coordinates": [
         40.51468656853933,
         -92.89229211011236
@@ -211,7 +211,7 @@
     "id": {
       "total_companies": 72,
       "total_funding": 152419973.0,
-      "avg_funding": 5645184.185185186,
+      "avg_funding": 2116944.0694444445,
       "coordinates": [
         43.12921687183099,
         -110.04469074507041
@@ -226,7 +226,7 @@
     "il": {
       "total_companies": 1294,
       "total_funding": 5724384669.0,
-      "avg_funding": 17294213.501510575,
+      "avg_funding": 4423790.316074189,
       "coordinates": [
         41.66438626412873,
         -87.25753170612244
@@ -241,7 +241,7 @@
     "in": {
       "total_companies": 256,
       "total_funding": 1243382617.0,
-      "avg_funding": 13369705.559139784,
+      "avg_funding": 4856963.34765625,
       "coordinates": [
         39.751578913833995,
         -88.55451459011857
@@ -256,7 +256,7 @@
     "ks": {
       "total_companies": 123,
       "total_funding": 223418822.0,
-      "avg_funding": 5319495.761904762,
+      "avg_funding": 1816413.18699187,
       "coordinates": [
         38.78240637249999,
         -94.84259207416667
@@ -271,7 +271,7 @@
     "ky": {
       "total_companies": 168,
       "total_funding": 218794156.0,
-      "avg_funding": 3838493.964912281,
+      "avg_funding": 1302346.1666666667,
       "coordinates": [
         38.48831643173653,
         -82.03646840119761
@@ -286,7 +286,7 @@
     "la": {
       "total_companies": 102,
       "total_funding": 58625892.0,
-      "avg_funding": 1891157.8064516129,
+      "avg_funding": 574763.6470588235,
       "coordinates": [
         31.019618053921565,
         -89.27187914901958
@@ -301,7 +301,7 @@
     "ma": {
       "total_companies": 2109,
       "total_funding": 23069548480.0,
-      "avg_funding": 21340932.91396855,
+      "avg_funding": 10938619.478425793,
       "coordinates": [
         43.60295269616858,
         -60.35283949003831
@@ -316,7 +316,7 @@
     "md": {
       "total_companies": 589,
       "total_funding": 4588859614.0,
-      "avg_funding": 17649460.053846154,
+      "avg_funding": 7790933.130730051,
       "coordinates": [
         39.0730483984375,
         -78.54485412482639
@@ -331,7 +331,7 @@
     "me": {
       "total_companies": 77,
       "total_funding": 428028609.0,
-      "avg_funding": 9954153.697674418,
+      "avg_funding": 5558813.103896104,
       "coordinates": [
         43.99689499066667,
         -82.20553054399998
@@ -346,7 +346,7 @@
     "mi": {
       "total_companies": 483,
       "total_funding": 922489701.0,
-      "avg_funding": 6361997.937931035,
+      "avg_funding": 1909916.5652173914,
       "coordinates": [
         41.987653002547766,
         -81.50951656581739
@@ -361,7 +361,7 @@
     "mn": {
       "total_companies": 508,
       "total_funding": 1609330350.0,
-      "avg_funding": 8514975.396825397,
+      "avg_funding": 3167973.12992126,
       "coordinates": [
         44.31588617984032,
         -92.2881801722555
@@ -376,7 +376,7 @@
     "mo": {
       "total_companies": 301,
       "total_funding": 978035031.0,
-      "avg_funding": 10295105.589473683,
+      "avg_funding": 3249285.8172757477,
       "coordinates": [
         38.88601759798658,
         -89.8112773909396
@@ -391,7 +391,7 @@
     "ms": {
       "total_companies": 37,
       "total_funding": 153500000.0,
-      "avg_funding": 12791666.666666666,
+      "avg_funding": 4148648.6486486485,
       "coordinates": [
         33.89939349722222,
         -89.69254668055557
@@ -406,7 +406,7 @@
     "mt": {
       "total_companies": 54,
       "total_funding": 128170064.0,
-      "avg_funding": 4929617.846153846,
+      "avg_funding": 2373519.703703704,
       "coordinates": [
         43.76286764259261,
         -100.54251764074073
@@ -421,7 +421,7 @@
     "nc": {
       "total_companies": 669,
       "total_funding": 3499536842.0,
-      "avg_funding": 14828545.940677967,
+      "avg_funding": 5230996.774289985,
       "coordinates": [
         36.23173415688351,
         -79.47752211770046
@@ -436,7 +436,7 @@
     "nd": {
       "total_companies": 20,
       "total_funding": 60060324.0,
-      "avg_funding": 10010054.0,
+      "avg_funding": 3003016.2,
       "coordinates": [
         45.947405978947366,
         -94.3822765368421
@@ -451,7 +451,7 @@
     "ne": {
       "total_companies": 102,
       "total_funding": 321781485.0,
-      "avg_funding": 8938374.583333334,
+      "avg_funding": 3154720.4411764704,
       "coordinates": [
         41.2224714950495,
         -96.8214630089109
@@ -466,7 +466,7 @@
     "nh": {
       "total_companies": 154,
       "total_funding": 648794077.0,
-      "avg_funding": 11186104.77586207,
+      "avg_funding": 4212948.551948052,
       "coordinates": [
         44.04617840675676,
         -60.45590069864866
@@ -481,7 +481,7 @@
     "nj": {
       "total_companies": 913,
       "total_funding": 3992114409.0,
-      "avg_funding": 14731049.479704797,
+      "avg_funding": 4372523.996714129,
       "coordinates": [
         40.4376605393736,
         -76.92631512986577
@@ -496,7 +496,7 @@
     "nm": {
       "total_companies": 64,
       "total_funding": 160276292.0,
-      "avg_funding": 5526768.689655173,
+      "avg_funding": 2504317.0625,
       "coordinates": [
         35.2631529109375,
         -105.825984159375
@@ -511,7 +511,7 @@
     "nv": {
       "total_companies": 306,
       "total_funding": 396989628.0,
-      "avg_funding": 4841336.926829268,
+      "avg_funding": 1297351.7254901961,
       "coordinates": [
         36.783031793687705,
         -114.62639035880399
@@ -526,7 +526,7 @@
     "ny": {
       "total_companies": 4234,
       "total_funding": 24460838613.0,
-      "avg_funding": 17238082.179704018,
+      "avg_funding": 5777241.051724138,
       "coordinates": [
         40.73132699062652,
         -73.70070894011656
@@ -541,7 +541,7 @@
     "oh": {
       "total_companies": 589,
       "total_funding": 1043006556.0,
-      "avg_funding": 5215032.78,
+      "avg_funding": 1770809.0933786079,
       "coordinates": [
         40.522121340102395,
         -78.00765900238908
@@ -556,7 +556,7 @@
     "ok": {
       "total_companies": 109,
       "total_funding": 382640977.0,
-      "avg_funding": 9566024.425,
+      "avg_funding": 3510467.6788990824,
       "coordinates": [
         35.91110266880734,
         -96.44209700275229
@@ -571,7 +571,7 @@
     "or": {
       "total_companies": 443,
       "total_funding": 1639237531.0,
-      "avg_funding": 9313849.607954545,
+      "avg_funding": 3700310.453724605,
       "coordinates": [
         45.08355233272728,
         -120.66708072840906
@@ -586,7 +586,7 @@
     "pa": {
       "total_companies": 1032,
       "total_funding": 5064247070.0,
-      "avg_funding": 12985248.897435898,
+      "avg_funding": 4907216.153100776,
       "coordinates": [
         40.218116906114396,
         -74.41853201291914
@@ -601,7 +601,7 @@
     "ri": {
       "total_companies": 122,
       "total_funding": 546992894.0,
-      "avg_funding": 7927433.2463768115,
+      "avg_funding": 4483548.31147541,
       "coordinates": [
         41.82252946528925,
         -72.8132212677686
@@ -616,7 +616,7 @@
     "sc": {
       "total_companies": 154,
       "total_funding": 306185006.0,
-      "avg_funding": 6958750.136363637,
+      "avg_funding": 1988214.3246753246,
       "coordinates": [
         35.00357782941176,
         -82.04896671895425
@@ -631,7 +631,7 @@
     "sd": {
       "total_companies": 18,
       "total_funding": 41338038.0,
-      "avg_funding": 5905434.0,
+      "avg_funding": 2296557.6666666665,
       "coordinates": [
         45.75053394444444,
         -83.19590822777778
@@ -646,7 +646,7 @@
     "tn": {
       "total_companies": 313,
       "total_funding": 784029910.0,
-      "avg_funding": 5764925.80882353,
+      "avg_funding": 2504887.891373802,
       "coordinates": [
         35.99539413376624,
         -89.41607469577923
@@ -661,7 +661,7 @@
     "tx": {
       "total_companies": 2137,
       "total_funding": 12053128901.0,
-      "avg_funding": 16928551.82724719,
+      "avg_funding": 5640210.061300889,
       "coordinates": [
         31.345011577577196,
         -96.48245500313539
@@ -676,7 +676,7 @@
     "unknown": {
       "total_companies": 748,
       "total_funding": 1942796425.0,
-      "avg_funding": 10389285.695187166,
+      "avg_funding": 2597321.4237967916,
       "coordinates": [
         37.63311588347826,
         -83.00667658434783
@@ -691,7 +691,7 @@
     "ut": {
       "total_companies": 426,
       "total_funding": 2336062658.0,
-      "avg_funding": 13905134.86904762,
+      "avg_funding": 5483715.159624414,
       "coordinates": [
         40.404260298568026,
         -111.14090829713605
@@ -706,7 +706,7 @@
     "va": {
       "total_companies": 863,
       "total_funding": 4220224130.0,
-      "avg_funding": 13882316.217105264,
+      "avg_funding": 4890178.597914252,
       "coordinates": [
         38.40868206765053,
         -66.0889250788666
@@ -721,7 +721,7 @@
     "vt": {
       "total_companies": 70,
       "total_funding": 142446868.0,
-      "avg_funding": 8379227.529411765,
+      "avg_funding": 2034955.2571428572,
       "coordinates": [
         41.675892627536236,
         -79.63259002318841
@@ -736,7 +736,7 @@
     "wa": {
       "total_companies": 1476,
       "total_funding": 13121164374.0,
-      "avg_funding": 23305798.177619893,
+      "avg_funding": 8889677.760162601,
       "coordinates": [
         47.06098845152355,
         -119.54952170096954
@@ -751,7 +751,7 @@
     "wi": {
       "total_companies": 267,
       "total_funding": 538175866.0,
-      "avg_funding": 5381758.66,
+      "avg_funding": 2015639.947565543,
       "coordinates": [
         43.094848203802286,
         -87.40599411444867
@@ -766,7 +766,7 @@
     "wv": {
       "total_companies": 18,
       "total_funding": 22939874.0,
-      "avg_funding": 3823312.3333333335,
+      "avg_funding": 1274437.4444444445,
       "coordinates": [
         38.79100561111111,
         -81.84901441666665
@@ -781,7 +781,7 @@
     "wy": {
       "total_companies": 18,
       "total_funding": 12357830.0,
-      "avg_funding": 2059638.3333333333,
+      "avg_funding": 686546.1111111111,
       "coordinates": [
         39.11343279333334,
         -99.75718956666667
