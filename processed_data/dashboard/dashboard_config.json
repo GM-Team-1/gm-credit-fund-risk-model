@@ -1,0 +1,120 @@
+{
+  "title": "GM Credit Fund - Startup Ecosystem Risk Model",
+  "subtitle": "Interactive Geographic Analysis Dashboard",
+  "data_sources": {
+    "primary_dataset": "GM Credit Fund Company Database",
+    "geographic_scope": "United States",
+    "temporal_scope": "[2015, 2024]",
+    "total_companies": 38820
+  },
+  "visualization_config": {
+    "default_view": {
+      "center": [
+        39.8283,
+        -98.5795
+      ],
+      "zoom": 4,
+      "map_style": "light"
+    },
+    "color_scales": {
+      "startup_density": {
+        "min": 0,
+        "max": 100,
+        "colors": [
+          "#fff7ec",
+          "#fee8c8",
+          "#fdd49e",
+          "#fdbb84",
+          "#fc8d59",
+          "#ef6548",
+          "#d7301f",
+          "#b30000",
+          "#7f0000"
+        ]
+      },
+      "bootstrap_success_rate": {
+        "min": 0,
+        "max": 100,
+        "colors": [
+          "#f7fcf0",
+          "#e0f3db",
+          "#ccebc5",
+          "#a8ddb5",
+          "#7bccc4",
+          "#4eb3d3",
+          "#2b8cbe",
+          "#0868ac",
+          "#084081"
+        ]
+      },
+      "ecosystem_maturity": {
+        "min": 0,
+        "max": 100,
+        "colors": [
+          "#fcfbfd",
+          "#efedf5",
+          "#dadaeb",
+          "#bcbddc",
+          "#9e9ac8",
+          "#807dba",
+          "#6a51a3",
+          "#54278f",
+          "#3f007d"
+        ]
+      }
+    },
+    "animation_config": {
+      "enabled": true,
+      "duration": 500,
+      "auto_play": false,
+      "frame_count": 10
+    }
+  },
+  "interactive_features": {
+    "drill_down": {
+      "enabled": true,
+      "levels": [
+        "national",
+        "state",
+        "city"
+      ],
+      "max_depth": 3
+    },
+    "filters": {
+      "enabled": true,
+      "available_filters": [
+        "industry",
+        "stage",
+        "success_status",
+        "funding_level",
+        "geographic_region"
+      ],
+      "multi_select": true
+    },
+    "time_series": {
+      "enabled": true,
+      "granularity": "yearly",
+      "animation": true
+    },
+    "tooltips": {
+      "enabled": true,
+      "fields": [
+        "name",
+        "total_companies",
+        "startup_density",
+        "bootstrap_success_rate",
+        "avg_funding"
+      ]
+    }
+  },
+  "export_options": {
+    "formats": [
+      "PNG",
+      "SVG",
+      "PDF",
+      "CSV"
+    ],
+    "data_download": true,
+    "embed_code": true
+  }
+}
