@@ -30,9 +30,5 @@ All notebooks are set to save and retrive any processed data from this directory
 4. EDA_visualizations.ipynb - Creates visualizations and reports
     > File Input: companies_feature_engineering.csv
 
-## Streamlit Dashboard
-To run the dashboard locally, from the project root run the following:
-    streamlit run streamlit/app.py
-
 ## Contributors
-Aanya Bhandari, Emily Jiang, Fikreab Mezgebu, Casey Chin
+Aanya Bhandari, Emily Jiang, Fikreab Mezgebu, Brook Shibabaw, Casey Chin
