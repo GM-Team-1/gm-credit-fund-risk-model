@@ -5,7 +5,7 @@
     "primary_dataset": "GM Credit Fund Company Database",
     "geographic_scope": "United States",
     "temporal_scope": "[2015, 2024]",
-    "total_companies": 38820
+    "total_companies": 51635
   },
   "visualization_config": {
     "default_view": {
