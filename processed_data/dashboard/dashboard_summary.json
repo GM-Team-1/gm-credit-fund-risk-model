@@ -1,15 +1,15 @@
 {
-  "export_timestamp": "2025-11-05T00:54:39.697308",
+  "export_timestamp": "2025-11-29T17:59:21.737587",
   "data_summary": {
-    "total_companies": 38820,
-    "geographic_coverage": "52 states, 883 cities",
+    "total_companies": 51635,
+    "geographic_coverage": "52 states, 1031 cities",
     "temporal_coverage": {
       "total_years": 10,
       "year_range": [
         2015,
         2024
       ],
-      "total_companies": 38820
+      "total_companies": 51635
     },
     "animation_frames": 10,
     "filter_dimensions": 5,
