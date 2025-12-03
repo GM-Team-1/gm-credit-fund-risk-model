@@ -16,13 +16,14 @@ CRFM aims to:
 Install the required Python packages:
 pip install -r requirements.txt
 
-## Data Handling/Storage
+## Data Handling
 ### data folder
 Raw data should be stored in the data folder under the filename:
 'companies.csv'
 
 Download the dataset here: [https://www.kaggle.com/datasets/amirataha/startups]
 
+## Storage
 ### processed_data folder
 All notebooks save and retrieve processed data from this directory.
 
