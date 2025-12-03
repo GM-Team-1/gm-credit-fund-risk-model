@@ -14,34 +14,37 @@ CRFM aims to:
 
 ## Dependencies
 Install the required Python packages:
-pip install -r requirements.txt
+
+```pip install -r requirements.txt```
 
 ## Data Handling
-### data folder
-Raw data should be stored in the data folder under the filename:
-'companies.csv'
-
-Download the dataset here: [https://www.kaggle.com/datasets/amirataha/startups]
+Raw data should be stored in the ```data``` folder under the filename ```companies.csv```.
 
 ## Storage
-### processed_data folder
-All notebooks save and retrieve processed data from this directory.
+All notebooks save and retrieve processed data from the ```processed_data``` folder.
+
+## Data Source
+You can download the dataset here: 
+
+https://www.kaggle.com/datasets/amirataha/startups
 
 ## Pipeline
 1. CFRM.ipynb - Performs initial exploration and analysis of the raw dataset.
     > File Inputs: companies.csv
 2. data_cleaning.ipynb - Defines target variables, handles missing values, and cleans the dataset.
     > File Inputs: companies.csv
+    > 
     > File Outputs: companies_optimized_targets.csv, companies_cleaned_data.csv
 3. feature_engineering.ipynb - Creates and transforms features for modeling.
     > File Input: companies_cleaned_data.csv
+    > 
     > File Output: companies_feature_engineering.csv
 4. eda.ipynb - Performs exploratory data analysis on the engineered features to identify patterns and insights.
     > File Input: companies_feature_engineering.csv
 4. EDA_visualizations.ipynb - Generates visualizations and summary reports for the engineered dataset.
     > File Input: companies_feature_engineering.csv
 
-## Streamlit Dashboard
+## Dashboard
 To launch the interactive dashboard locally, navigate to the project root and run:
 streamlit run streamlit/app.py
 
