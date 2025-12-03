@@ -50,7 +50,7 @@ To launch the interactive dashboard locally, navigate to the project root and ru
 ```streamlit run streamlit/app.py```
 
 ## Contributors
-Aanya Bhandari
-Casey Chin
-Emily Jiang
-Fikreab Mezgebu
+- Aanya Bhandari
+- Casey Chin
+- Emily Jiang
+- Fikreab Mezgebu
