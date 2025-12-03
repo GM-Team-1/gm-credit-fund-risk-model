@@ -1,17 +1,19 @@
+# streamlit/geographic.py
+import streamlit as st
 import plotly.express as px
 import pydeck as pdk
-import streamlit as st
 
 def run(st, data_store, ctx):
-    st.title("Geographic Analysis")
-    st.markdown("State & county level visualizations.")
+    st.markdown("<h1 style='text-align:center; color:#1f77b4;'>Geographic Analysis</h1>", unsafe_allow_html=True)
+    st.markdown("<h3 style='text-align:center; color:#555;'>Visualize state and county level metrics across the USA</h3>", unsafe_allow_html=True)
+    st.markdown("---")
 
-    state_df = data_store.get("state_heatmap_data", None)
-    county_df = data_store.get("county_heatmap_data", None)
+    state_df = data_store.get("state_heatmap_data")
+    county_df = data_store.get("county_heatmap_data")
 
-    # State heatmap
+    # State Heatmap
     if state_df is not None and not state_df.empty:
-        st.subheader("State heatmap")
+        st.subheader("State Heatmap")
         value_col = next((c for c in state_df.columns if c.lower() in ("value","score","metric","rate","target")), None)
         state_col = next((c for c in state_df.columns if c.lower() in ("state","state_code","state_abbrev")), None)
         if state_col and value_col:
@@ -30,16 +32,17 @@ def run(st, data_store, ctx):
     else:
         st.info("No state heatmap data available.")
 
-    # County heatmap
+    # County Heatmap
     if county_df is not None and not county_df.empty:
-        st.subheader("County heatmap")
+        st.subheader("County Heatmap")
         lat_col = next((c for c in county_df.columns if c.lower() in ("lat","latitude")), None)
         lon_col = next((c for c in county_df.columns if c.lower() in ("lon","lng","longitude")), None)
         value_col = next((c for c in county_df.columns if c.lower() in ("value","score","metric","rate","target")), None)
         if lat_col and lon_col:
             view_state = pdk.ViewState(latitude=county_df[lat_col].mean(), longitude=county_df[lon_col].mean(), zoom=4)
+            layer_type = "HeatmapLayer" if value_col else "ScatterplotLayer"
             layer = pdk.Layer(
-                "HeatmapLayer" if value_col else "ScatterplotLayer",
+                layer_type,
                 data=county_df,
                 get_position=f"[{lon_col}, {lat_col}]",
                 aggregation="MEAN",
