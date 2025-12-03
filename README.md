@@ -46,7 +46,8 @@ https://www.kaggle.com/datasets/amirataha/startups
 
 ## Dashboard
 To launch the interactive dashboard locally, navigate to the project root and run:
-streamlit run streamlit/app.py
+
+```streamlit run streamlit/app.py```
 
 ## Contributors
 Aanya Bhandari
