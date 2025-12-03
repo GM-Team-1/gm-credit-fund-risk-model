@@ -1,33 +1,38 @@
+# streamlit/app.py
 import streamlit as st
-from pathlib import Path
 from utils import load_all_processed_data
-import overview
-import geographic
-import risk_profiles
-import recommendations
 
-st.set_page_config(page_title="GM Credit Fund Risk Dashboard", layout="wide")
+# Load all CSVs
+data_store = load_all_processed_data("processed_data")
 
-# Load CSVs from processed_data
-BASE_DATA_DIR = Path(__file__).resolve().parents[1] / "processed_data"
-data_store = load_all_processed_data(BASE_DATA_DIR)
+from overview import run as overview_run
+from geographic import run as geographic_run
+from risk_profiles import run as risk_profiles_run
+from recommendations import run as recommendations_run
 
-PAGES = {
-    "Overview": overview,
-    "Geographic": geographic,
-    "Risk Profiles": risk_profiles,
-    "Recommendations": recommendations,
-}
+# Wrap pages for Streamlit Navigation
+pages = [
+    st.Page(
+        page=lambda: overview_run(st, data_store, st.runtime.scriptrunner.get_script_run_ctx()),
+        url_path="overview",
+        title="Overview"
+    ),
+    st.Page(
+        page=lambda: geographic_run(st, data_store, st.runtime.scriptrunner.get_script_run_ctx()),
+        url_path="geographic",
+        title="Geographic"
+    ),
+    st.Page(
+        page=lambda: risk_profiles_run(st, data_store, st.runtime.scriptrunner.get_script_run_ctx()),
+        url_path="risk_profiles",
+        title="Risk Profiles"
+    ),
+    st.Page(
+        page=lambda: recommendations_run(st, data_store, st.runtime.scriptrunner.get_script_run_ctx()),
+        url_path="recommendations",
+        title="Recommendations"
+    ),
+]
 
-# Sidebar navigation
-st.sidebar.title("GM Credit Fund")
-st.sidebar.markdown("### Navigation")
-page = st.sidebar.selectbox("Go to", list(PAGES.keys()))
-
-st.sidebar.markdown("---")
-st.sidebar.markdown("### Global controls")
-year = st.sidebar.selectbox("Data year (if available)", ["All", "2023", "2024", "2025"], index=0)
-st.sidebar.caption("Dataset-specific filters live in each page.")
-
-# Run selected page
-PAGES[page].run(st=st, data_store=data_store, ctx={"year": year})
+pg = st.navigation(pages)
+pg.run()
