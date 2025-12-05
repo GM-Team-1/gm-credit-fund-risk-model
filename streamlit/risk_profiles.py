@@ -132,9 +132,10 @@ def run(st, data_store, ctx):
 
     selected_company = st.selectbox("Select a Company:", df['name'].unique())
 
-
     st.write(f"### Risk Profile for {selected_company}")
+    st.write("")
 
+    st.divider()
 
     cluster_df = data_store.get("cluster_validation_dataset", pd.DataFrame())
     st.write(f"Rows in cluster dataset: {len(cluster_df)}")
