@@ -128,14 +128,14 @@ def run(st, data_store, ctx):
 
     # Add real-time risk assessment tools for individual companies
 
-    st.write("## Real-Time Risk Assessment Tool")
+    # st.write("## Real-Time Risk Assessment Tool")
 
-    selected_company = st.selectbox("Select a Company:", df['name'].unique())
+    # selected_company = st.selectbox("Select a Company:", df['name'].unique())
 
-    st.write(f"### Risk Profile for {selected_company}")
-    st.write("")
+    # st.write(f"### Risk Profile for {selected_company}")
+    # st.write("")
 
-    st.divider()
+    # st.divider()
 
     cluster_df = data_store.get("cluster_validation_dataset", pd.DataFrame())
     st.write(f"Rows in cluster dataset: {len(cluster_df)}")
